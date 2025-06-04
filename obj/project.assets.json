@@ -432,11 +432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectosWeb\\APITMP\\ApiExistenciasSimuladas.csproj",
+      "projectUniqueName": "C:\\ProyectosWeb\\APITMP\\Existencias\\ApiExistenciasSimuladas.csproj",
       "projectName": "ApiExistenciasSimuladas",
-      "projectPath": "C:\\ProyectosWeb\\APITMP\\ApiExistenciasSimuladas.csproj",
+      "projectPath": "C:\\ProyectosWeb\\APITMP\\Existencias\\ApiExistenciasSimuladas.csproj",
       "packagesPath": "C:\\Users\\peper\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectosWeb\\APITMP\\obj\\",
+      "outputPath": "C:\\ProyectosWeb\\APITMP\\Existencias\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
