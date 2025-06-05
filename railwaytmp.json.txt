@@ -1,7 +1,0 @@
-{
-  "build": {
-    "builder": "NIXPACKS",
-    "buildCommand": "dotnet restore ApiExistenciasSimuladas.csproj && dotnet build ApiExistenciasSimuladas.csproj",
-    "startCommand": "dotnet ApiExistenciasSimuladas.dll"
-  }
-}
