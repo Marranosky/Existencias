@@ -29,6 +29,9 @@ public class getExistenciasController : ControllerBase
             return Ok(response);
         }
 
-        return NotFound(new { Mensaje = "Material no encontrado en el inventario simulado." });
+        return NotFound(new ConsultaExistenciaResponse {
+                NumMaterial = encontrado.Material,
+                Existencia = 0,
+                Mensaje = "Material no encontrado en el inventario." });
     }
 }
