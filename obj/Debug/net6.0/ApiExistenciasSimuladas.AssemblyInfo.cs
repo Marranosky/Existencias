@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiExistenciasSimuladas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa5eb73760363d5fff9a8ba96f2d358c5d7d66d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38f8a881186ea4a52431abc993b7c6456a40b389")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiExistenciasSimuladas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiExistenciasSimuladas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
