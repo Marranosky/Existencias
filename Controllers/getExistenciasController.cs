@@ -8,7 +8,7 @@ namespace ApiExistenciasSimuladas.Controllers;
 [Route("api/[controller]")]
 public class getExistenciasController : ControllerBase
 {
-    [HttpPost("consultar")]
+    [HttpPost]
 public IActionResult ConsultarExistencia([FromBody] ConsultaExistenciaRequest request)
 {
     var encontrado = InventarioSimulado.Materiales.FirstOrDefault(m =>

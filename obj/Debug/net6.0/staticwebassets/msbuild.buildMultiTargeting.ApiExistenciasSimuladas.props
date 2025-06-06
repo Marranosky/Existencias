@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiExistenciasSimuladas.props" />
+</Project>
